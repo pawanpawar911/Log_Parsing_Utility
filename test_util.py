@@ -4,7 +4,6 @@ import re
 from util import filtered_lines, highlight_match, ipv4_pattern, ipv6_pattern , ts_pattern
 
 def remove_ansi_escape_sequences(text):
-    #reomve the ansi color matching
     ansi_escape = re.compile(r'\x1b\[[0-9;]*m')
     return ansi_escape.sub('', text)
 

@@ -32,7 +32,6 @@ class TestLogParserUtility():
         filter_line = filtered_lines(lines, ipv4_pattern)
         result = highlight_match(filter_line, ipv4_pattern)
         
-        #expected = ["04:36:58 ERROR Connection failed to \033[32m192.168.0.1\033[0m"]
         expected = ["04:36:58 ERROR Connection failed to 192.168.0.1"]
         
         result_stripped = [remove_ansi_escape_sequences(line) for line in result]
@@ -46,7 +45,6 @@ class TestLogParserUtility():
         filter_line = filtered_lines(lines, ipv4_pattern)
         result = highlight_match(filter_line, ipv4_pattern)
         
-        #expected = ["04:36:58 ERROR Connection failed to \033[32m192.168.0.1\033[0m"]
         expected = ["04:36:58 ERROR Connection failed to 192.168.0.1"]
         
         result_stripped = [remove_ansi_escape_sequences(line) for line in result]

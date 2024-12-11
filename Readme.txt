@@ -14,12 +14,12 @@ This Python script is a flexible log parsing utility that enables users to filte
 
 # Usage
 Run the script using the following command:
-with this command data will save into default result.log file
+With this command, the data will be saved into the default result.log file
 ```
-python util.py [options] <file>
+python util.py [options] <input_file>
 ```
 or 
-to store the data into the desired output file.
+Alternatively, to store the data in a specific output file
 ```
 python util.py [options] <output_file> <input_file>
 ```

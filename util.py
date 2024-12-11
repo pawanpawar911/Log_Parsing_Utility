@@ -11,7 +11,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description= "Log Parser Utility")
     parser.add_argument("-f", "--first", type=int, help="Print first NUM lines")
     parser.add_argument("-l", "--last", type=int, help="Print last NUM lines")
-    parser.add_argument("-t", "--timestamps", type=int, help="Print lines containing timestamps")
+    parser.add_argument("-t", "--timestamps", action="store_true", help="Print lines containing timestamps")
     parser.add_argument("-i", "--ipv4", action="store_true", help="Print lines containing ipv4 addresses")
     parser.add_argument("-I", "--ipv6", action="store_true", help="Print lines containing ipv6 addresses")
     parser.add_argument("file", nargs="?", type=argparse.FileType('r'), default=sys.stdin, help="Log file to parse the data")

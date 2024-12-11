@@ -1,84 +1,15 @@
-18:23:16 INFO User logged in from [33m167.234.55.21[0m
+2024-12-09 10:15:30 INFO Starting the application
 
-06:39:43 INFO User logged in from [33m144.94.51.165[0m
+2024-12-09 10:20:45 ERROR Failed to connect to database
 
-04:46:37 WARN Low disk space on [33m206.0.220.80[0m
+2024-12-09 10:25:00 INFO User logged out
 
-02:57:05 INFO User logged in from [33m191.204.214.236[0m
+2024-12-09 10:30:15 DEBUG Debugging the issue
 
-04:05:02 ERROR Connection failed to [33m42.44.116.243[0m
+2024-12-09 10:15:30 INFO Starting the application
 
-10:48:56 INFO User logged in from [33m29.100.22.20[0m
+2024-12-09 10:20:45 ERROR Failed to connect to database
 
-07:34:39 INFO User logged in from [33m158.55.245.126[0m
+2024-12-09 10:25:00 INFO User logged out
 
-22:01:55 INFO User logged in from [33m144.253.128.15[0m
-
-11:40:42 ERROR Connection failed to [33m223.152.148.173[0m
-
-03:11:47 WARN Low disk space on [33m57.188.65.214[0m
-
-22:09:55 ERROR Connection failed to [33m73.10.141.123[0m
-
-12:14:11 DEBUG Testing configuration for [33m78.206.178.235[0m
-
-12:49:40 ERROR Connection failed to [33m180.122.152.127[0m
-
-18:15:03 INFO User logged in from [33m235.166.236.166[0m
-
-05:48:31 ERROR Connection failed to [33m159.20.221.211[0m
-
-12:38:22 WARN Low disk space on [33m244.148.58.197[0m
-
-05:34:27 WARN Low disk space on [33m114.35.11.236[0m
-
-04:36:58 ERROR Connection failed to [33m206.104.106.60[0m
-
-16:00:34 ERROR Connection failed to [33m15.241.105.42[0m
-
-14:34:18 WARN Low disk space on [33m122.59.149.53[0m
-
-15:02:20 WARN Low disk space on [33m152.83.131.161[0m
-
-13:39:21 WARN Low disk space on [33m133.152.192.177[0m
-
-11:44:34 ERROR Connection failed to [33m21.26.92.44[0m
-
-16:12:19 DEBUG Testing configuration for [33m146.41.115.252[0m
-
-07:38:41 ERROR Connection failed to [33m123.199.214.228[0m
-
-05:46:48 DEBUG Testing configuration for [33m157.119.146.171[0m
-
-20:57:46 INFO User logged in from [33m48.24.181.215[0m
-
-09:38:33 INFO User logged in from [33m252.201.224.245[0m
-
-05:41:48 ERROR Connection failed to [33m243.13.240.184[0m
-
-16:22:04 INFO User logged in from [33m77.45.188.73[0m
-
-20:51:42 ERROR Connection failed to [33m16.188.176.213[0m
-
-04:27:05 WARN Low disk space on [33m223.139.232.103[0m
-
-07:44:13 INFO User logged in from [33m76.204.194.105[0m
-
-02:32:13 INFO User logged in from [33m203.170.96.112[0m
-
-20:33:50 DEBUG Testing configuration for [33m109.154.117.207[0m
-
-16:02:43 WARN Low disk space on [33m177.209.192.127[0m
-
-13:01:28 WARN Low disk space on [33m70.9.154.167[0m
-
-01:18:10 WARN Low disk space on [33m100.57.65.233[0m
-
-01:43:13 WARN Low disk space on [33m93.229.126.187[0m
-
-00:27:57 INFO User logged in from [33m83.131.179.80[0m
-
-06:42:52 DEBUG Testing configuration for [33m13.40.210.214[0m
-
-04:42:57 INFO User logged in from [33m119.178.91.59[0m
-
+2024-12-09 10:30:15 DEBUG Debugging the issue

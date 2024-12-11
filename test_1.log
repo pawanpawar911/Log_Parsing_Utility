@@ -4,7 +4,7 @@
 This line contains no special pattern.
 2024-12-09 10:25:00 INFO User logged out
 Another line without any timestamp or IP.
-fe80::1ff:fe23:4567:890a This is an IPv6 address
+3674:31e9:c2c6:ccf3:1522:4406:5a9b:8a55 This is an IPv6 address
 127.0.0.1 Localhost access detected
 2024-12-09 10:30:15 DEBUG Debugging the issue
 2024-12-09 10:15:30 INFO Starting the application
@@ -13,6 +13,6 @@ fe80::1ff:fe23:4567:890a This is an IPv6 address
 This line contains no special pattern.
 2024-12-09 10:25:00 INFO User logged out
 Another line without any timestamp or IP.
-fe80::1ff:fe23:4567:890a This is an IPv6 address
+2dec:4256:88df:16fa:2240:ed9c:c99d:fbe6 This is an IPv6 address
 127.0.0.1 Localhost access detected
 2024-12-09 10:30:15 DEBUG Debugging the issue
